@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+.avaliacaoGeral{
+    background-color: #0E1015;
+    padding: 45px;
+    display: flex;
+    justify-content: space-between;
+    font-family: "Krona One", sans-serif;
+    
+}
+
+
+.setaAvaliacoesUsuario{
+    display: flex;
+    gap: 10px;
+    font-family: "Krona One", sans-serif;
+    color: white;
+    width: 400px;
+    font-size: 16px;
+    line-height: 20px;
+
+}
+
+.avaliar{
+    color: #D5224E;
+}
+
